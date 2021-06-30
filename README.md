@@ -2,7 +2,6 @@
 # SendGrid
 
 * Contributors: SendGrid 
-* Donate link: http://sendgrid.com/
 * Tags: email, email reliability, email templates, sendgrid, smtp, transactional email, wp_mail,email infrastructure, email marketing, marketing email, deliverability, email deliverability, email delivery, email server, mail server, email integration, cloud email
 * Requires at least: 4.6
 * Tested up to: 4.9
